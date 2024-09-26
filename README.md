@@ -22,12 +22,12 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=gabrielnalmeida&hide_border=true&show_icons=true&theme=dark#gh-dark-mode-only" alt="Gabriel's GitHub Stats Dark Mode">
+    <img src="https://github-readme-stats.vercel.app/api?username=gabrielnalmeida&hide_border=true&show_icons=true&theme=dark#gh-dark-mode-only" >
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=gabrielnalmeida&hide_border=true&show_icons=true&theme=default#gh-light-mode-only" alt="Gabriel's GitHub Stats Light Mode">
+    <img src="https://github-readme-stats.vercel.app/api?username=gabrielnalmeida&hide_border=true&show_icons=true&theme=default#gh-light-mode-only" >
   </a>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=gabrielnalmeida&theme=dark&hide_border=true&card_width=460&hide_longest_streak=true" alt="Gabriel's GitHub Streak Stats">
+    <img src="https://streak-stats.demolab.com?user=gabrielnalmeida&theme=dark&hide_border=true&card_width=460&hide_longest_streak=true" >
   </a>
 </p>
