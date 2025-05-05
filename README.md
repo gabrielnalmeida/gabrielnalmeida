@@ -10,9 +10,9 @@
   
    🔭 I’m currently working on **a startup**
    
-   🌱 I’m currently learning **Spring, FastApi**
+   🌱 I’m currently learning **GO**
   
-  💬 Ask me about **Next.js, React... or anything [here](https://github.com/gabrielnalmeida/gabrielnalmeida/issues)**
+  💬 Ask me about **Next.js, React or anything [here](https://github.com/gabrielnalmeida/gabrielnalmeida/issues)**
   
   ⚡ Fun fact **Bananas are berries, but strawberries aren't! 🍌🍓**
   
